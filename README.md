@@ -8,7 +8,7 @@ This project contains the code developed as part of reccommending articles to us
 - Jupyter
 
 ## Project Structure
-**notebooks** - contains notebooks used to develop and test reccommendation engine
-**reccommendation-engine-deployment** - contains code made available by udacity for deployment.
+- **notebooks** - contains notebooks used to develop and test reccommendation engine
+- **reccommendation-engine-deployment** - contains code made available by udacity for deployment.
 
 
