@@ -1,5 +1,10 @@
 ##########################
-# KEDRO PROJECT
+# PROJECT Template
+
+.ipython
+.vscode
+reccomendation-engine-deployment/data
+reccomendation-engine-deployment/.pytest_cache
 
 # ignore all local configuration
 conf/local/**
